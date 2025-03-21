@@ -48,6 +48,4 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/clarete-ana/clarete-ana/blob/output/github-contribution-grid-snake.svg)
-
 ###
