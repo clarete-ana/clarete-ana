@@ -44,7 +44,7 @@
 </div>
 
 ###
-![snake gif](https://github.com/clarete-ana/clarete-ana/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/clarete-ana/clarete-ana/blob/output/github-contribution-grid-snake-dark.svg)
 
 <br clear="both">
 
