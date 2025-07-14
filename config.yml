@@ -1,5 +1,5 @@
 theme: "dark"
 colors:
-  background: "#0D1117"
-  snake: "#39ff14"
-  dots: "#5c5c5c"
+  background: "#0d1117"    
+  snake: "#a855f7"         
+  dots: "#444444"  
