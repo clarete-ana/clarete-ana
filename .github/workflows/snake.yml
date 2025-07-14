@@ -15,6 +15,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
           config_file: config.yml
+          show_progress_bar: false
 
       - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v4
